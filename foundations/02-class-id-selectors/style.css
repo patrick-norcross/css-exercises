@@ -1,6 +1,6 @@
 p.default {
     background-color: pink;
-    font-family: "Verdana", "DejaVu Sans", sans-serif" ;
+    font-family: "fortnite", "DejaVu Sans", sans-serif" ;
 }
 p.default.cooler {
     font-size: 24px;
@@ -11,7 +11,7 @@ div {
     font-style: italic;
 }
 div#two {
-    color: blue;
+    color: green;
     font-size: 36px;
 }
 div#four {
